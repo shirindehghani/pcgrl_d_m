@@ -1,4 +1,4 @@
-DDAVE and mdungeon in wide mode were added by Avengers team 
+ddave and mdungeon in wide mode were added by Avengers team 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 	<img height="300px" src="logo.png"/>
