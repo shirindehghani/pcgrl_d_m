@@ -1,3 +1,4 @@
+DDAVE and mdungeon in wide mode were added
 <p align="center">
 	<img height="300px" src="logo.png"/>
 </p>
